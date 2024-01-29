@@ -2,3 +2,4 @@ Troll
 Orch
 Dragon
 Snake
+Zombie
